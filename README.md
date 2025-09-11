@@ -36,7 +36,7 @@
 ## 👥 팀원 소개
 
 - **한현승 (팀장 & BE)**: [GitHub](https://github.com/82everywin)
-- **조예령 (FE & BE)**: [GitHub](https://github.com/yereong)
+- **조예령 (FE)**: [GitHub](https://github.com/yereong)
 - **임재현 (FE)**: [GitHub](https://github.com/JaeHyun10-03)
 
 <br><br>
